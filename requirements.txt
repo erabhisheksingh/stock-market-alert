@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+lxml
+requests
+playsound
+python-dotenv
+PyObjC
