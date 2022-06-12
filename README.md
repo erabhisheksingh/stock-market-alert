@@ -38,9 +38,9 @@ The key features are:
 ---
 ## **Requirements**
 
-this script requires Python 3.6+
+This script requires Python 3.6+
 
-
+### The Webhook name and the API Key can be configured in the .env file
 ## Installation
 
 ```console
